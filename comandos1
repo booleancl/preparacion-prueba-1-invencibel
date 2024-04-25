@@ -6,7 +6,7 @@ mkdir carreras
 cd carreras
 mkdir modulo-00
 cd modulo-00
-touch index .md
+touch index.md
 cd ..
 mkdir modulo-01
 cd modulo-01
