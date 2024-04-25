@@ -4,6 +4,8 @@
 cd soymas
 mkdir carreras
 cd carreras
+mkdir administracion
+cd administracion
 mkdir modulo-00
 cd modulo-00
 touch index.md
