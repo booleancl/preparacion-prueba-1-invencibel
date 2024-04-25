@@ -13,6 +13,7 @@ cd modulo-01
 touch index.md
 cd ..
 cd ..
+cd ..
 mkdir artes culinarias
 cd artes culinarias
 touch lista.txt
