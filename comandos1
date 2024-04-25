@@ -14,10 +14,10 @@ mkdir modulo-01
 cd modulo-01
 touch index.md
 cd ..
+cd ..
 mkdir artes-culinarias
 cd artes-culinarias
 touch lista.txt
-cd ..
 cd ..
 cd peluqueria
 touch lista.txt
