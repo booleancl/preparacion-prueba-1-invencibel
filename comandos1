@@ -16,6 +16,8 @@ mkdir artes culinarias
 cd artes culinarias
 touch lista.txt
 cd ..
+cd ..
+cd ..
 mkdir peluqueria
 cd peluqueria
 touch lista.txt
